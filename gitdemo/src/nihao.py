@@ -5,3 +5,6 @@ def fun1():
 
 def fun2():
     pass
+
+def fun3():
+    pass
